@@ -144,7 +144,7 @@ This design allows for future enhancements and adaptations to different use case
 
 ## Demo Video
 
-[Watch the demo video](https://github.com/StackItHQ/pes-Prathit-tech/video.mp4)
+[Watch the demo video](https://github.com/StackItHQ/pes-Prathit-tech/blob/main/video.mp4)
 
 ### Welcome to Superjoin's hiring assignment! 🚀
 
